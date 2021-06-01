@@ -1,0 +1,20 @@
+{
+    "name": "discord.js-slash-commands-webhook",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon .",
+        "start": "node ."
+    },
+    "repository": "https://github.com/MatheusIshiyama/discord.js-slash-commands-webhook.git",
+    "author": "Matheus Ishiyama <matheus.ishiyama@outlook.com>",
+    "license": "MIT",
+    "dependencies": {
+        "discord.js": "^12.5.3",
+        "express": "^4.17.1",
+        "tweetnacl": "^1.0.3"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.7"
+    }
+}
