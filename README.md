@@ -1,10 +1,10 @@
-# discord.js-slash-commands-webhook
+# Discord bot Slash Commands(webhook)
 
 Simple discord bot, to get slash commands by webhooks.
 
 ---
 
-## setup and run
+## Setup and run
 
 ```bash
 yarn && yarn dev
